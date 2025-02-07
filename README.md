@@ -1,1 +1,1 @@
-"Sistema desktop desenvolvido no curso de Programação em Java do SENAC-SC. Para desenvolvê-lo, foi utilizada a linguagem Java. As interfaces gráficas foram criadas com a extensão WindowBuilder e a biblioteca Java Swing."
+Sistema desktop desenvolvido no curso de Programação em Java do SENAC-SC. Para desenvolvê-lo, foi utilizada a linguagem Java. As interfaces gráficas foram criadas com a extensão WindowBuilder e a biblioteca Java Swing.
