@@ -1,1 +1,1 @@
-Projeto desenvolvido no curso de programação em java do SENAC-SC
+Sistema desktop desenvolvido no curso de programação em java do SENAC-SC. Para desenvolve-lo foi utilizado a linguagem Java e para as telas foi utilizado a extenção Window Builder e o Framework Java Swing.
